@@ -1,4 +1,4 @@
-# 💫 About Me=
+# 💫 About Me
 🌱 I’m currently learning **React.js**  
 💬 Ask me about **NodeJS**, **MongoDB**, **HTML**, **CSS**, **JavaScript**, **Java**...  
 📫 How to reach me: [miteshpatil809@gmail.com](mailto:miteshpatil809@gmail.com)  
